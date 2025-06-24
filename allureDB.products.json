@@ -1,0 +1,1729 @@
+[{
+  "_id": {
+    "$oid": "66af457ac8ff5636f6a7fe42"
+  },
+  "name": "Dot and Key Daycream",
+  "price": 580,
+  "description": "Dot & Key Retinol + Ceramide Sleep Treatment Anti-Ageing Night Cream For Fine Lines & Wrinkles",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/0/70ea50bDOTKE00000047_01.jpg",
+  "brandName": "Dot & Key",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-04T09:10:18.584Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-04T09:10:18.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66af4582c8ff5636f6a7fe44"
+  },
+  "name": "Nykaa Endless",
+  "price": 639,
+  "description": "Love Struck is a collection of fragrances that makes you want to fall head over heels in love.",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/3/63d66838904245712143_1.jpg",
+  "brandName": "Nykaa",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-04T09:10:26.329Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-04T09:10:26.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3b6d4c1ea6d7904a47d0a"
+  },
+  "name": "Neutrogena Hydro Boost Hyaluronic Acid Water Gel Face Moisturizer",
+  "price": 1150,
+  "description": "Neutrogena Hydro Boost Hyaluronic Acid Water Gel Face Moisturizer For 72 Hr Hydration For Plump And Dewy Skin",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/7/f/7f7e63d4891080614470_1.jpg",
+  "brandName": "Neutrogena",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:03:00.970Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:03:00.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3b7b7c1ea6d7904a47d0c"
+  },
+  "name": "Neutrogena Bright Boost Gel Cream Face Moisturizer",
+  "price": 1117,
+  "description": "Neutrogena Bright Boost Gel Cream Face Moisturizer With Neoglucosamine-Proven To Improve Skin Tone",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/0/c/0c6b118NEUTR00000043_1.jpg",
+  "brandName": "Neutrogena",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:06:47.624Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:06:47.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3b862c1ea6d7904a47d0e"
+  },
+  "name": "Dot & Key Vitamin C + E Super Bright Face Moisturizer",
+  "price": 468,
+  "description": "Dot & Key Vitamin C + E Super Bright Face Moisturizer For Glowing Skin, Fades Dark Spots",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/e/2/e2f1392DOTKE00000054_1090624.jpg",
+  "brandName": "Dot & Key",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:09:38.293Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:09:38.293Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3b8fdc1ea6d7904a47d10"
+  },
+  "name": "Dot & Key Ceramide Face Moisturizer",
+  "price": 395,
+  "description": "Dot & Key Hyaluronic + Ceramide Barrier Repair Hydrating Face Moisturizer Cream, Normal To Dry Skin",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/e/f/ef55aa6DOTKE00000199_1130624.jpg",
+  "brandName": "Dot & Key",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:12:13.201Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:12:13.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3b981c1ea6d7904a47d12"
+  },
+  "name": "Plum 2% Niacinamide & Rice Water Gel Cream ",
+  "price": 525,
+  "description": "Plum 2% Niacinamide & Rice Water Daily Brightening Gel Cream For Oil-Free, Non-Sticky Hydration",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/4/a/4a39d08PLUMX00000641_1.jpg",
+  "brandName": "Plum",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:14:25.706Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:14:25.706Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3ba07c1ea6d7904a47d14"
+  },
+  "name": "Cetaphil Brightening Cleanser ",
+  "price": 700,
+  "description": "Cetaphil Brightening Cleanser with Niacinamide Reduces dark spots Dermatologist Tested",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/b/1/b1e5c94CETAP00000005_1.jpg",
+  "brandName": "Cetaphil",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:16:39.704Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:16:39.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3ba7bc1ea6d7904a47d16"
+  },
+  "name": "The Face Shop Cleanser ",
+  "price": 900,
+  "description": "The Face Shop Rice Water Bright Foaming Cleanser",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/3/e/3e8743d8806182550997_1270524.jpg",
+  "brandName": "The Face Shop",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:18:35.460Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:18:35.460Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3badac1ea6d7904a47d18"
+  },
+  "name": "Dot & Key Cica Salicylic & Green Tea Facewash",
+  "price": 249,
+  "description": "Dot & Key Cica Salicylic & Green Tea Facewash For Acne Prone & Oily Skin, Cleanses Pores & Excess Oil",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/d/6/d6cd83bDOTKE00000186_1.jpg",
+  "brandName": "Dot & Key",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:20:10.160Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:20:10.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3bb39c1ea6d7904a47d1a"
+  },
+  "name": "Dot & Key vitamin C + E Facewash",
+  "price": 249,
+  "description": "Dot & Key Vitamin C + E Super Bright Gel Face Wash",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/6/c/6c049feDOTKE00000308_2002241.jpg",
+  "brandName": "Dot & Key",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:21:45.268Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:21:45.268Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3bc1ec1ea6d7904a47d1c"
+  },
+  "name": "Dot & Key Watermelon Facewash",
+  "price": 249,
+  "description": "Dot & Key Watermelon & Vitamin C SuperGlow Gel Face Wash For Glowing Skin & Spots Reduction",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/6/c/6c049feDOTKE00000166_2002241.jpg",
+  "brandName": "Dot & Key",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:25:34.815Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:25:34.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3bc8dc1ea6d7904a47d1e"
+  },
+  "name": "Cetaphil Cleansing + Hydrating Regime Cleanser",
+  "price": 870,
+  "description": "Cetaphil Cleansing + Hydrating Regime",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/9/8/982b139NYKBNDCTP0009_1.jpg",
+  "brandName": "Cetaphil",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:27:25.853Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:27:25.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3bce7c1ea6d7904a47d20"
+  },
+  "name": "The Body Shop Tea Tree Skin Clearing Facial Wash",
+  "price": 896,
+  "description": "The Body Shop Tea Tree Skin Clearing Facial Wash",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/1/1/1169145E000334b_1.jpg",
+  "brandName": "The Body Shop",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:28:55.950Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:28:55.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3bd43c1ea6d7904a47d22"
+  },
+  "name": "The Bioderma Cleanser",
+  "price": 800,
+  "description": "Bioderma Cleanser - Sebium Gel Moussant - Acne Defence Cleanser For Oily Acne Prone Skin",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/7/6/764bc513401353791220_1202241.jpg",
+  "brandName": "Bioderma",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:30:27.923Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:30:27.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3bdbcc1ea6d7904a47d24"
+  },
+  "name": "Mamaearth Ubtan Natural Face Wash",
+  "price": 360,
+  "description": "Mamaearth Ubtan Natural Face Wash for Tan Removal",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/1/8/18d33a4MAMAE00000431_1509232.jpg",
+  "brandName": "Mamaearth",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:32:28.631Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:32:28.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3be27c1ea6d7904a47d26"
+  },
+  "name": "Simple Barrier Care Replenishing Cream Cleanser ",
+  "price": 399,
+  "description": "Simple Barrier Care Replenishing Cream Cleanser With 11% Ceramide Boosters & Hyaluronic Acid",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/9/c/9c9f403SIMPL00000099_1.jpg",
+  "brandName": "Simple",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:34:15.810Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:34:15.810Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3be89c1ea6d7904a47d28"
+  },
+  "name": "Lotus Botanicals Ubtan De-Tan Radiance Face Wash ",
+  "price": 220,
+  "description": "Lotus Botanicals Ubtan De-Tan Radiance Face Wash Infused with 24K Gold Rejuvenated Skin",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/3/4/341fff7806360008584ab_4.jpg",
+  "brandName": "Lotus",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:35:53.010Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:35:53.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3bf08c1ea6d7904a47d2a"
+  },
+  "name": "The Ordinary Glycolic Acid 7% Toning Solution",
+  "price": 1250,
+  "description": "A daily surface exfoliator that smooths skin texture, evens tone, and boosts luminosity.",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/6/0/60ee76d769915195743_2.jpg",
+  "brandName": "The Ordinary",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:38:00.183Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:38:00.183Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3bf7cc1ea6d7904a47d2c"
+  },
+  "name": "Plum 3% Niacinamide Toner",
+  "price": 450,
+  "description": "Plum 3% Niacinamide Alcohol-Free Toner With Rice Water - Reduces Pores & Blemishes For Bright Skin",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/3/c/3cf52f8PLUMX00000229_1607243.jpg",
+  "brandName": "Plum",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:39:56.897Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:39:56.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3bfe2c1ea6d7904a47d2e"
+  },
+  "name": "TONYMOLY Moisturising Wonder Ceramide Mochi Toner",
+  "price": 1500,
+  "description": "A multi-use, value-sized toner that works wonders? Meet TonyMoly Wonder Ceramide Mochi Toner, a hydrating, skin-repairing toner that nourishes weak, dry skin with a hydrating viscous texture so skin looks and feels stronger and healthier. Formulated with ceramides that help reinforce skin's moisture barrier and EWG Green ingredients, the gentle, hypoallergenic toner provides daily care that helps strengthen, hydrate, and protect skin so you can achieve smooth, bouncy, mocchi-like skin!",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/0/2/0243ea4TONYM00000012_1.jpg",
+  "brandName": "Wonder",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:41:38.197Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:41:38.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c042c1ea6d7904a47d30"
+  },
+  "name": "Plum Green Tea Toner with Glycolic Acid",
+  "price": 380,
+  "description": "Plum Green Tea Toner with Glycolic Acid - Tightens Pores, Fights Pimples & Controls Oil Alcohol-Free",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/5/d/5d3974c737534800058_2812233.jpg",
+  "brandName": "plum",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:43:14.896Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:43:14.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c0a0c1ea6d7904a47d32"
+  },
+  "name": "Beauty of Joseon Ginseng Essence Water",
+  "price": 380,
+  "description": "Inspired by Hanbang or Korean traditional herbal medicine, this watery toner will become your go-to for revitalized and youthful-looking skin. Formulated with 80% ginseng root water, berry extracts and root ferment, your skin will reap all the antioxidant and skin healing benefits that ginseng has to offer. The 2% niacinamide supports the skin barrier for more resiliency. ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/f/5/f5afc788809738310960_2.jpg",
+  "brandName": "Beauty of Joseon",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:44:48.670Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:44:48.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c1d4c1ea6d7904a47d38"
+  },
+  "name": "Dot & Key Watermelon Waterlight Face Sunscreen",
+  "price": 380,
+  "description": "Dot & Key Watermelon Waterlight Face Sunscreen SPF 50 PA+++ No White Cast For Normal To Oily Skin! ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/6/d/6d6054dDOTKE00000243_1220324.jpg",
+  "brandName": "Dot & Key",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:49:56.131Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:49:56.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c23fc1ea6d7904a47d3a"
+  },
+  "name": "Dot & Key vitamin C Face Sunscreen",
+  "price": 380,
+  "description": "Dot & Key vitamin c Waterlight Face Sunscreen SPF 50 PA+++ No White Cast For Normal To Oily Skin! ",
+  "category": "skincare",
+  "imageURL": "https://adn-static1.nykaa.com/media/wysiwyg/DOTKE00000213_01.jpg",
+  "brandName": "Dot & Key",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:51:43.925Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:51:43.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c29bc1ea6d7904a47d3c"
+  },
+  "name": "Plum 2% Niacinamide Sunscreen",
+  "price": 580,
+  "description": "Plum 2% Niacinamide Sunscreen SPF 50 PA+++ UVA/B - Reduces Tan, No White Cast, Dermat Tested! ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/a/e/aeb54c4PLUMX00000578_1.jpg",
+  "brandName": "plum",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:53:15.629Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:53:15.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c2f6c1ea6d7904a47d3e"
+  },
+  "name": "Minimalist SPF 50 PA ++++ Sunscreen With Multi-Vitamin For Reducing Photoaging & No White Cast",
+  "price": 399,
+  "description": "Minimalist Multi Vitamin SPF 50 PA ++++ Sunscreen is a lightweight, moisturiser-meets-sunscreen. This broad spectrum SPF 50 with PA+++ rating, has a very light texture that spreads easily and disappears leaving behind a natural, moisturised, non-shiny look. Loaded with vitamins A, B, E and F that help repair skin and minimise damage caused by UV exposure. This sunscreen provides ultimate skin protection and moisturizes the skin too! ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/8/f/8f73469MINIM00000027_1.jpg",
+  "brandName": "Minimalist",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:54:46.136Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:54:46.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c385c1ea6d7904a47d40"
+  },
+  "name": "FAE Beauty No White Cast Lightweight Sunscreen SPF Juice SPF 50+",
+  "price": 600,
+  "description": "FAE Beauty No White Cast Lightweight Sunscreen SPF Juice SPF 50+ Loaded with vitamins A, B, E and F that help repair skin and minimise damage caused by UV exposure. This sunscreen provides ultimate skin protection and moisturizes the skin too! ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/1/3/1325a90FAEBE00000020_1.jpg",
+  "brandName": "FAE Beauty",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:57:09.072Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:57:09.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c3dfc1ea6d7904a47d42"
+  },
+  "name": "Hyphen Ultra Light Water Sunscreen SPF 50 PA++++",
+  "price": 600,
+  "description": "Introducing the Ultra-Light Water Sunscreen SPF 50 PA++++, a feather-light shield that offers broad-spectrum sun protection with its water-based formula. As light as a feather, it effortlessly protects your skin from both UVA and UVB rays, ensuring a weightless and comfortable feel.! ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/6/c/6c24820HYPHE00000021_1.jpg",
+  "brandName": "Hyphen",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T18:58:39.678Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T18:58:39.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c430c1ea6d7904a47d44"
+  },
+  "name": "Lakme Sun Expert SPF 50 PA+++ Ultra Matte Sunscreen with Vitamin B3 C & Niacinamide",
+  "price": 600,
+  "description": "Lakme Sun Expert SPF 50 PA+++ Ultra Matte Sunscreen with Vitamin B3 C & Niacinamide. As light as a feather, it effortlessly protects your skin from both UVA and UVB rays, ensuring a weightless and comfortable feel.! ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/9/c/9c242e28901030978609_04.jpg",
+  "brandName": "Lakme",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:00:00.045Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:00:00.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c47ec1ea6d7904a47d46"
+  },
+  "name": "SunScoop Hydrating Face & Body Fluid Sunscreen Spray, SPF 60 PA++++, Sunscreen for Dry & Oily Skin",
+  "price": 500,
+  "description": "SunScoop Sun Expert SPF 50 PA+++ Ultra Matte Sunscreen with Vitamin B3 C & Niacinamide. As light as a feather, it effortlessly protects your skin from both UVA and UVB rays, ensuring a weightless and comfortable feel.! ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/7/d/7d77a8eSUNSC00000018_0.jpg",
+  "brandName": "SunScoop",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:01:18.539Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:01:18.539Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c4f0c1ea6d7904a47d48"
+  },
+  "name": "Wishcare Niacinamide Oil Balance Sunscreen SPF 50 PA++++ For Oily Skin",
+  "price": 400,
+  "description": " Wishcare Niacinamide Oil Balance Sunscreen SPF 50 PA++++ For Oily Skin .Wishcare Sun Expert SPF 50 PA+++ Ultra Matte Sunscreen with Vitamin B3 C & Niacinamide. As light as a feather, it effortlessly protects your skin from both UVA and UVB rays, ensuring a weightless and comfortable feel.! ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/6/e/6ed968cWISHC00000112_1.jpg",
+  "brandName": "wishcare",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:03:12.342Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:03:12.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c589c1ea6d7904a47d4a"
+  },
+  "name": "Dot & Key Ceramide & Peptide Barrier Repair SPF 50 PA+++ Tinted Lip Balm For Plump Lip - Red Romance",
+  "price": 215,
+  "description": " Dot & Key Ceramide & Peptide Barrier Repair SPF 50 PA+++ Tinted Lip Balm For Plump Lip - Red Romance.! ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/4/f436ef28906147701225_1.jpg",
+  "brandName": "Dot & Key",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:05:45.026Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:05:45.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c5dec1ea6d7904a47d4c"
+  },
+  "name": "LANEIGE Lip Glowy Balm - Berry",
+  "price": 690,
+  "description": " LANEIGE & Peptide Barrier Repair SPF 50 PA+++ Tinted Lip Balm For Plump Lip - Red Romance.! ",
+  "category": "skincare",
+  "imageURL": "https://adn-static1.nykaa.com/media/wysiwyg/lip-balm_b1.jpg",
+  "brandName": "LANEIGE",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:07:10.227Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:07:10.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c633c1ea6d7904a47d4e"
+  },
+  "name": "Nykaa Moisturising Macaron Lip Balm With Shea Butter, Almond Oil & Vitamin E - Strawberry",
+  "price": 390,
+  "description": " Nykaa Moisturising Macaron Lip Balm With Shea Butter, Almond Oil & Vitamin E - Strawberry Repair SPF 50 PA+++ Tinted Lip Balm For Plump Lip - Red Romance.! ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/c/7/c7857998904245705909_1.jpg",
+  "brandName": "Nykaa",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:08:35.648Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:08:35.648Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c695c1ea6d7904a47d50"
+  },
+  "name": "Hyphen Vitamin Infused Peptide Lip Balm - Vanilla For Dry & Chapped Lips, Hydrates & Moisturizes",
+  "price": 590,
+  "description": " NHyphen Vitamin Infused Peptide Lip Balm - Vanilla For Dry & Chapped Lips, Hydrates & Moisturizes, Moisturising Macaron Lip Balm With Shea Butter, Almond Oil & Vitamin E - Strawberry Repair SPF 50 PA+++ Tinted Lip Balm For Plump Lip - Red Romance.! ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/1/c/1cfea53HYPHE00000005_1.jpg",
+  "brandName": "Hyphen",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:10:13.585Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:10:13.585Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c747c1ea6d7904a47d52"
+  },
+  "name": "COSRX Advanced Snail 96 Mucin Power Essence",
+  "price": 1490,
+  "description": "The viral COSRX Advanced Snail 96 Mucin Power Essence is a lightweight essence enriched with 96% snail secretion filtrate, which nourishes, repairs, and revitalizes skin for dewy, glass skin. ! ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/e/3/e35fc328809416470009_0.jpg",
+  "brandName": "COSRX",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:13:11.464Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:13:11.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c799c1ea6d7904a47d54"
+  },
+  "name": "The Ordinary Niacinamide 10% + Zinc 1%",
+  "price": 600,
+  "description": "Our Niacinamide 10% + Zinc 1% formula is a water-based serum that boosts skin brightness, improves skin smoothness, and reinforces skin barrier integrity over time. It contains a high concentration of niacinamide (vitamin b3) and zinc PCA. ! ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/3/4/34f0fa0THECI00000026.jpg",
+  "brandName": "The Ordinary",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:14:33.893Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:14:33.893Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c810c1ea6d7904a47d56"
+  },
+  "name": "The Ordinary AHA 30% + BHA 2% Peeling Solution",
+  "price": 900,
+  "description": " The Ordinary AHA 30% + BHA 2% Peeling Solution, Textural irregularities, dullness, uneven skin toneKey Ingredients: Glycolic Acid, Lactic Acid, Tartaric Acid, Citric Acid, Salicylic Acid, Sodium Hyaluronate Crosspolymer, Tasmannia Lanceolata Fruit/Leaf Extract! ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/9/a/9a28f79THECI00000011_2.jpg",
+  "brandName": "The Ordinary",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:16:32.506Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:16:32.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c876c1ea6d7904a47d58"
+  },
+  "name": "Plum 10% Niacinamide Brightening Face Serum With Rice Water & Ferment - Fades Blemishes & Acne Marks",
+  "price": 500,
+  "description": " Plum 10% Niacinamide Brightening Face Serum With Rice Water & Ferment - Fades Blemishes & Acne Marks , Textural irregularities, dullness, uneven skin toneKey Ingredients: Glycolic Acid, Lactic Acid, Tartaric Acid, Citric Acid, Salicylic Acid, Sodium Hyaluronate Crosspolymer, Tasmannia Lanceolata Fruit/Leaf Extract! ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/a/e/aeb54c4PLUMX00000133_1.jpg",
+  "brandName": "plum",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:18:14.546Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:18:14.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c8d9c1ea6d7904a47d5a"
+  },
+  "name": "Estee Lauder Advanced Night Repair Synchronized Multi-Recovery Complex Serum With Tripeptide-32 20ml",
+  "price": 4500,
+  "description": " Estee Lauder Advanced Night Repair Synchronized Multi-Recovery Complex Serum With Tripeptide-32 20ml! ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/8/b/8ba4f44887167485495_1.jpg",
+  "brandName": "Estee Lauder",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:19:53.280Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:19:53.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c92dc1ea6d7904a47d5c"
+  },
+  "name": "Plum 15% Vitamin C Glow Face Serum - Dermat Tested To Fight Dark Spots, Pigmentation & Dull Skin",
+  "price": 790,
+  "description": "Plum 15% Vitamin C Glow Face Serum - Dermat Tested To Fight Dark Spots, Pigmentation & Dull Skin! ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/a/e/aeb54c4PLUMX00000068_1.jpg",
+  "brandName": "plum",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:21:17.950Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:21:17.950Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c97dc1ea6d7904a47d5e"
+  },
+  "name": "The Derma Co 10% Vitamin C Face Serum For Skin Radiance",
+  "price": 597,
+  "description": "The Derma Co 10% Vitamin C Face Serum For Skin Radiance!! ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/c/0/c0010758906087775607_1.jpg",
+  "brandName": "The Derma Co",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:22:37.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:22:37.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3c9d6c1ea6d7904a47d60"
+  },
+  "name": "L'Oreal Paris Revitalift Hydrating Serum With 1.5 % Hyaluronic Acid",
+  "price": 847,
+  "description": "L'Oreal Paris Revitalift Hydrating Serum With 1.5 % Hyaluronic Acid!! ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/a/3/a30a4a4LOREA00000002_1.jpg",
+  "brandName": "L'Oreal Paris",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:24:06.084Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:24:06.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3ca1cc1ea6d7904a47d62"
+  },
+  "name": "L'Oreal Paris Glycolic Bright Serum With 1% Glycolic Acid & Niacinamide, Reduces Dark Spots",
+  "price": 377,
+  "description": "L'Oreal Paris Glycolic Bright Serum With 1% Glycolic Acid & Niacinamide, Reduces Dark Spots! ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/e/8/e80c887LOREA00000367_2.jpg",
+  "brandName": "L'Oreal Paris",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:25:16.731Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:25:16.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3cac9c1ea6d7904a47d64"
+  },
+  "name": "MCaffeine Coffee & Milk Moisturizing Face Scrub",
+  "price": 217,
+  "description": "MCaffeine Coffee & Milk Moisturizing Face Scrub with Shea Butter for Gentle Exfoliation & Skin Nourishment! ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/9/7/9700c1cMCAFF00000055_1.jpg",
+  "brandName": "MCaffeine",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:28:09.542Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:28:09.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3cb22c1ea6d7904a47d66"
+  },
+  "name": "Forest Essentials Nourishing Facial Scrub for Dry Skin - Black Sesame & Jaggery Ayurvedic Face Scrub",
+  "price": 2007,
+  "description": "The Forest Essentials Nourishing Facial Scrub is enriched with traditional exfoliators like oil-rich black sesame paste, finely-milled raw cane sugar, sweet almonds, and sesame seeds that are blended with fresh jaggery, cow's ghee, and honey to gently polish dull skin cells, deeply moisturize, and restore the skin's elasticity, revealing smoother, fresher skin immediately. ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/4/d/4d813898905452213232_1.jpg",
+  "brandName": "Forest Essentials",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:29:38.864Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:29:38.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3cb69c1ea6d7904a47d68"
+  },
+  "name": "Forest Essentials Revitalising Kashmiri Walnut Exfoliating Scrub, Ayurvedic Tan Removal Walnut Scrub",
+  "price": 2017,
+  "description": " Forest Essentials Revitalising Kashmiri Walnut Exfoliating Scrub, Ayurvedic Tan Removal Walnut Scrub.The Forest Essentials Nourishing Facial Scrub is enriched with traditional exfoliators like oil-rich black sesame paste, finely-milled raw cane sugar, sweet almonds, and sesame seeds that are blended with fresh jaggery, cow's ghee, and honey to gently polish dull skin cells, deeply moisturize, and restore the skin's elasticity, revealing smoother, fresher skin immediately. ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/d/b/db6a0f68904153390013_1.jpg",
+  "brandName": "Forest Essentials",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:30:49.009Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:30:49.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3cbafc1ea6d7904a47d6a"
+  },
+  "name": "Forest Essentials Facial Ubtan Soundarya Ayurvedic Face Mask Anti Ageing Face Pack with Turmeric",
+  "price": 700,
+  "description": "Forest Essentials Facial Ubtan Soundarya Ayurvedic Face Mask Anti Ageing Face Pack with Turmeric, Forest Essentials Revitalising Kashmiri Walnut Exfoliating Scrub, Ayurvedic Tan Removal Walnut Scrub.The Forest Essentials Nourishing Facial Scrub is enriched with traditional exfoliators like oil-rich black sesame paste, finely-milled raw cane sugar, sweet almonds, and sesame seeds that are blended with fresh jaggery, cow's ghee, and honey to gently polish dull skin cells, deeply moisturize, and restore the skin's elasticity, revealing smoother, fresher skin immediately. ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/6/2/6268b0c8904153308223_01.jpgg",
+  "brandName": "Forest Essentials",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:31:59.783Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:31:59.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3cc2ac1ea6d7904a47d6c"
+  },
+  "name": "The Body Shop British Rose Shower Gel",
+  "price": 596,
+  "description": "Awaken your skin with the irresistibly dewy scent of roses. The cleansing Shower Gel is infused with the essence of hand-picked roses from Britain to make showering feel blooming beautiful. ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/c/2/c2ccd6dE000865_1.jpg",
+  "brandName": "The Body Shop",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:34:02.845Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:34:02.845Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3cc62c1ea6d7904a47d6e"
+  },
+  "name": "The Body Shop Bluebell Shower Cream",
+  "price": 596,
+  "description": "The Body Shop Bluebell Shower Cream. Awaken your skin with the irresistibly dewy scent of roses. The cleansing Shower Gel is infused with the essence of hand-picked roses from Britain to make showering feel blooming beautiful. ",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/2/1/21f3c405028197381967a_1.jpg",
+  "brandName": "The Body Shop",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:34:58.825Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:34:58.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3cd65c1ea6d7904a47d77"
+  },
+  "name": "The Body Shop Shea Shower Cream",
+  "price": 496,
+  "description": "Full of shea butter, the richly moisturising soap-free shower cream will leave your skin feeling nourished, softer and freshly cleansed..",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/1/8/18ea8d1E000289a_a0.jpg",
+  "brandName": "The Body Shop",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:39:17.321Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:39:17.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3cda6c1ea6d7904a47d79"
+  },
+  "name": "The Body Shop Oils Of Life Sleeping Cream",
+  "price": 2796,
+  "description": "The Body Shop Oils Of Life Sleeping Cream .Full of shea butter, the richly moisturising soap-free shower cream will leave your skin feeling nourished, softer and freshly cleansed..",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/9/5/9534cc4e000890_2rev.jpg",
+  "brandName": "The Body Shop",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:40:22.258Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:40:22.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3ce05c1ea6d7904a47d7c"
+  },
+  "name": "The Body Shop Chinese Ginseng & Rice Clarifying Polishing Mask",
+  "price": 2395,
+  "description": "Give your skin a new lease of life with The Body Shop Chinese Ginseng & Rice Clarifying Polishing Mask. Inspired by Chinese traditions, The Body Shop has blended ginseng extract, rice extract and sesame seed oil into this 100% vegetarian creamy exfoliating mask, that has been formulated without parabens, paraffin, silicone or mineral oil. Use two to three times a week to reveal brighter-looking, even and supple feeling skin.",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/4/9/4995cc4e000944_1rev.jpg",
+  "brandName": "The Body Shop",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T19:41:57.435Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T19:41:57.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3d291c1ea6d7904a47d7e"
+  },
+  "name": "Nykaa Naturals Skin Secrets Bestseller Sheet Mask ",
+  "price": 95,
+  "description": "Nykaa Naturals Skin Secrets Bestseller Sheet Mask",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/5/b/5b7a2eb890424570485_2.jpg",
+  "brandName": "Nykaa",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T20:01:21.956Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T20:01:21.956Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3d2c8c1ea6d7904a47d80"
+  },
+  "name": "Nykaa Naturals Skin Secrets Potent Ingredients Sheet Mask Combo (Pack Of 5) ",
+  "price": 450,
+  "description": "Nykaa Naturals Skin Secrets Bestseller Sheet Mask",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/1/f/1fbbb328904245712297_a1.jpg",
+  "brandName": "Nykaa",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T20:02:16.255Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T20:02:16.255Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3d305c1ea6d7904a47d82"
+  },
+  "name": "Nykaa Skin Secrets Indian Rituals Lemon + Honey Sheet Mask For Glowing & Clear Skin) ",
+  "price": 95,
+  "description": " Nykaa Skin Secrets Indian Rituals Lemon + Honey Sheet Mask For Glowing & Clear Skin,Nykaa Naturals Skin Secrets Bestseller Sheet Mask",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/c/5/c52172a8904245704858_1.jpg",
+  "brandName": "Nykaa",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T20:03:17.843Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T20:03:17.843Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3d362c1ea6d7904a47d84"
+  },
+  "name": "The Face Shop Real Nature Rice Face Mask ",
+  "price": 150,
+  "description": "Introducing a basic mask sheet line that provides honest solution to solve skin troubles. The Face Shop Real Nature face mask features a light-as-air sheet that feels soft and weightless on skin. The serum containing Ceramides provide a moisturizing solution to dry, rough skin. Enriched with rich essentials to help achieve smooth and healthy skin. This product is dermatologically tested.",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/8/c/8caa6208806182557132__1_.jpg",
+  "brandName": "The Face Shop",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T20:04:50.355Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T20:04:50.355Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3d3b5c1ea6d7904a47d86"
+  },
+  "name": "MCaffeine Coffee Hydrogel Under Eye Patches for Dark Circles with Hyaluronic Acid - 30 Pairs ",
+  "price": 790,
+  "description": "MCaffeine Coffee Hydrogel Under Eye Patches for Dark Circles with Hyaluronic Acid - 30 Pairs,Introducing a basic mask sheet line that provides honest solution to solve skin troubles. The Face Shop Real Nature face mask features a light-as-air sheet that feels soft and weightless on skin. The serum containing Ceramides provide a moisturizing solution to dry, rough skin. Enriched with rich essentials to help achieve smooth and healthy skin. This product is dermatologically tested.",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/7/a/7a43b56MCAFF00000257_1.jpg",
+  "brandName": "MCaffeine",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T20:06:13.593Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T20:06:13.593Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3d41ac1ea6d7904a47d88"
+  },
+  "name": "Dot & Key Watermelon, Hyaluronic & Caffeine Cooling Hydrogel Eye Patches For Dark Circle & Puffiness ",
+  "price": 890,
+  "description": "Dot & Key Watermelon, Hyaluronic & Caffeine Cooling Hydrogel Eye Patches For Dark Circle & Puffiness Real Nature face mask features a light-as-air sheet that feels soft and weightless on skin. The serum containing Ceramides provide a moisturizing solution to dry, rough skin. Enriched with rich essentials to help achieve smooth and healthy skin. This product is dermatologically tested.",
+  "category": "skincare",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/d/6/d6cd83bDOTKE00000289_1.jpg",
+  "brandName": "Dot and Key",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T20:07:54.296Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T20:07:54.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3dfdfc1ea6d7904a47d8a"
+  },
+  "name": "Bath & Body Works Into the Night Fine Fragrance Mis",
+  "price": 2099,
+  "description": "Love at first mist? It is possible! Bath & Body Works Into the Night Fine Fragrance Mist is the absolute best way to keep the scent going all day, every day. Plus, the fragrance is oh-so-glorious that you'll want to take a bottle with your everywhere.",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/2/7/27d4480BATHB00000143_1.jpg",
+  "brandName": "Bath & Body Works",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T20:58:07.506Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T20:58:07.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e036c1ea6d7904a47d8c"
+  },
+  "name": "Bath & Body Works A Thousand Wishes Fine Fragrance Mist",
+  "price": 2099,
+  "description": "A Thousand Wishes Fine Fragrance Mist It is possible! Bath & Body Works Into the Night Fine Fragrance Mist is the absolute best way to keep the scent going all day, every day. Plus, the fragrance is oh-so-glorious that you'll want to take a bottle with your everywhere.",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/2/7/27d4480667550634620_1.jpg",
+  "brandName": "Bath & Body Works",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T20:59:34.890Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T20:59:34.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e0c0c1ea6d7904a47d8e"
+  },
+  "name": "Bath & Body Works Dark Kiss Fine Fragrance Mist",
+  "price": 2099,
+  "description": "Scents your skin with a light-as-air-mist that's super layerable. Bath & Body Works Into the Night Fine Fragrance Mist is the absolute best way to keep the scent going all day, every day. Plus, the fragrance is oh-so-glorious that you'll want to take a bottle with your everywhere.",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/2/7/27d4480BATHB00002049_1.jpg",
+  "brandName": "Bath & Body Works",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:01:52.684Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:01:52.684Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e142c1ea6d7904a47d90"
+  },
+  "name": "Bath & Body Works Gingham Fragrance Mist",
+  "price": 2099,
+  "description": "ath & Body Works is one of the world’s leading specialty retailers and home to America’s Favorite Fragrances offering a breadth of exclusive fragrances for the body and home, including the no.1 selling collections for body lotion and body cream, body wash, hand soap and fine fragrance mist. ",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/2/7/27d4480BATHB00001499_1.jpg",
+  "brandName": "Bath & Body Works",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:04:02.785Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:04:02.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e1a5c1ea6d7904a47d92"
+  },
+  "name": "Victoria's Secret Velvet Petals Fragrance Mist",
+  "price": 1879,
+  "description": "Victoria’s Secret is the world’s largest intimates specialty retailer offering a wide assortment of modern, fashion-inspired collections including lingerie, casual sleepwear and athleisure, as well as award-winning prestige fragrances and body care. Victoria’s Secret is on a mission to champion, celebrate and advocate for women and the causes that matter most to them and through the transformative power of their products and experiences bring inspiration, confidence, comfort and joy to women around the worldath & Body Works is one of the world’s leading specialty retailers and home to America’s Favorite Fragrances offering a breadth of exclusive fragrances for the body and home, including the no.1 selling collections for body lotion and body cream, body wash, hand soap and fine fragrance mist. ",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/5/3/5321eb6VICTO00000839_1.jpg",
+  "brandName": "Victoria's Secret",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:05:41.823Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:05:41.823Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e1f5c1ea6d7904a47d94"
+  },
+  "name": "Victoria's Secret Pure Secduction fragrance Mist",
+  "price": 1879,
+  "description": "Victoria’s Secret is the world’s largest intimates specialty retailer offering a wide assortment of modern, fashion-inspired collections including lingerie, casual sleepwear and athleisure, as well as award-winning prestige fragrances and body care. Victoria’s Secret is on a mission to champion, celebrate and advocate for women and the causes that matter most to them and through the transformative power of their products and experiences bring inspiration, confidence, comfort and joy to women around the worldath & Body Works is one of the world’s leading specialty retailers and home to America’s Favorite Fragrances offering a breadth of exclusive fragrances for the body and home, including the no.1 selling collections for body lotion and body cream, body wash, hand soap and fine fragrance mist. ",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/5/3/5321eb6VICTO00001027_1.jpg",
+  "brandName": "Victoria's Secret",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:07:01.652Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:07:01.652Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e23cc1ea6d7904a47d96"
+  },
+  "name": "Victoria's Secret Bare Vanilla Fragrance Mist",
+  "price": 1879,
+  "description": "Fragrance description: Whipped vanilla. Soft cashmere. Skin to skin. Fragrance type: Gourmand.. ",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/5/3/5321eb6VICTO00000840_1.jpg",
+  "brandName": "Victoria's Secret",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:08:12.978Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:08:12.978Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e2e6c1ea6d7904a47d99"
+  },
+  "name": "Victoria's Secret Bombshell Edp",
+  "price": 6479,
+  "description": "There's a Bombshell in every woman. Confident and bold, Victoria's Secret Bombshell is America's No. 1 fragrance and is a sparkling mix of fresh-cut peonies and afternoon sun. Citrus notes and Brazilian Purple Passion Fruit start Bombshell off with bright, exotic sparkle.",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/b/9/b9676e2VICTO00000017.jpg",
+  "brandName": "Victoria's Secret",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:11:02.033Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:11:02.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e34bc1ea6d7904a47d9b"
+  },
+  "name": "Yves Saint Laurent Libre Eau De Parfum",
+  "price": 9411,
+  "description": "Yves Saint Laurent Libre Eau De Parfum.There's a Bombshell in every woman. Confident and bold, Victoria's Secret Bombshell is America's No. 1 fragrance and is a sparkling mix of fresh-cut peonies and afternoon sun. Citrus notes and Brazilian Purple Passion Fruit start Bombshell off with bright, exotic sparkle.",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/3/5/355b63a3614272648425_1.jpg",
+  "brandName": "Victoria's Secret",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:12:43.498Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:12:43.498Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e3b4c1ea6d7904a47d9d"
+  },
+  "name": "Sol de Janeiro Brazilian Crush Cheirosa 62 Vanilla & Salted Caramel Perfume Mist",
+  "price": 2600,
+  "description": "A body fragrance mist, bursting with an alluring pistachio and salted caramel scent, to be used on body, hair, and lingerie. Citrus notes and Brazilian Purple Passion Fruit start Bombshell off with bright, exotic sparkle.",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/9/a/9a28f79SOLDE00000044_2.jpg",
+  "brandName": "Sol de Janeiro Brazilian Crush",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:14:28.554Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:14:28.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e3e9c1ea6d7904a47d9f"
+  },
+  "name": "Sol de Janeiro Brazilian Crush Cheirosa 68 Brazilian Jasmine & Pink Dragonfruit Perfume Mist",
+  "price": 2600,
+  "description": "A body fragrance mist, bursting with an alluring pistachio and salted caramel scent, to be used on body, hair, and lingerie. Citrus notes and Brazilian Purple Passion Fruit start Bombshell off with bright, exotic sparkle.",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/e/9/e98b30fSOLDE00000111_2.jpg",
+  "brandName": "Sol de Janeiro Brazilian Crush",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:15:21.657Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:15:21.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e42fc1ea6d7904a47da1"
+  },
+  "name": "Sol de Janeiro Brazilian Crush Cheirosa 40 Black Amber Plum & Vanilla Woods Perfume Mist",
+  "price": 2600,
+  "description": "A body fragrance mist, bursting with an alluring pistachio and salted caramel scent, to be used on body, hair, and lingerie. Citrus notes and Brazilian Purple Passion Fruit start Bombshell off with bright, exotic sparkle.",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/e/9/e98b30fSOLDE00000047_2.jpg",
+  "brandName": "Sol de Janeiro Brazilian Crush",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:16:31.944Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:16:31.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e4b2c1ea6d7904a47da3"
+  },
+  "name": "Moi by Nykaa - Joie De Vivre Eau De Parfum Luxury Perfume for Women",
+  "price": 1800,
+  "description": "Moi by Nykaa is a collection of fragrances that takes its name from the French word ‘moi’ translating to ‘me’. It captures all shades of your beautiful spirit and makes you cherish your Moi Moment.",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/2/2/226d9ad8904245702540_1.jpg",
+  "brandName": "Moi by Nykaa",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:18:42.256Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:18:42.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e4e2c1ea6d7904a47da5"
+  },
+  "name": "Moi by Nykaa - Joie De Vivre Eau De Luxury Perfume for Women",
+  "price": 1800,
+  "description": "Moi by Nykaa is a collection of fragrances that takes its name from the French word ‘moi’ translating to ‘me’. It captures all shades of your beautiful spirit and makes you cherish your Moi Moment.",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/2/2/226d9ad8904245702540_3.jpg?tr=w-344,h-344,cm-pad_resize",
+  "brandName": "Moi by Nykaa",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:19:30.540Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:19:30.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e524c1ea6d7904a47da7"
+  },
+  "name": "Moi by Nykaa - Raison D'Etre Eau De Parfum Luxury Perfume for Women",
+  "price": 1800,
+  "description": "Moi by Nykaa is a collection of fragrances that takes its name from the French word ‘moi’ translating to ‘me’. It captures all shades of your beautiful spirit and makes you cherish your Moi Moment.",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/2/2/226d9ad8904245702557_3.jpg",
+  "brandName": "Moi by Nykaa",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:20:36.623Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:20:36.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e572c1ea6d7904a47da9"
+  },
+  "name": "Moi by Nykaa - Matin Eau de Parfum Luxury Perfume for Women",
+  "price": 1800,
+  "description": "Moi by Nykaa is a collection of fragrances that takes its name from the French word ‘moi’ translating to ‘me’. It captures all shades of your beautiful spirit and makes you cherish your Moi Moment.",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/2/2/226d9ad8904245710668_3.jpg",
+  "brandName": "Moi by Nykaa",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:21:54.176Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:21:54.176Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e5aac1ea6d7904a47dab"
+  },
+  "name": "Moi by Nykaa - Amour Eau de Parfum Luxury Perfume for Women",
+  "price": 1800,
+  "description": "Moi by Nykaa is a collection of fragrances that takes its name from the French word ‘moi’ translating to ‘me’. It captures all shades of your beautiful spirit and makes you cherish your Moi Moment.",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/2/2/226d9ad8904245710644_1.jpg",
+  "brandName": "Moi by Nykaa",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:22:50.830Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:22:50.830Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e69bc1ea6d7904a47dad"
+  },
+  "name": "GUESS 1981 Indigo W Eau De Toilette",
+  "price": 5100,
+  "description": "GUESS 1981 Indigo W Eau De Toilette It captures all shades of your beautiful spirit and makes you cherish your Moi Moment.",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/5/c/5ca05823614225350290_asp4.jpg",
+  "brandName": "GUESSe",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:26:51.613Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:26:51.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e6e4c1ea6d7904a47daf"
+  },
+  "name": "GUESS 1981 Indigo W Eau De Toilette",
+  "price": 5100,
+  "description": "GUESS 1981 Indigo W Eau De Toilette It captures all shades of your beautiful spirit and makes you cherish your Moi Moment.",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/5/c/5ca05823614225350290_asp4.jpg",
+  "brandName": "GUESS",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:28:04.060Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:28:04.060Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e70cc1ea6d7904a47db1"
+  },
+  "name": "GUESS 1981 Eau De Toilette",
+  "price": 5100,
+  "description": "GUESS 1981 Indigo W Eau De Toilette It captures all shades of your beautiful spirit and makes you cherish your Moi Moment.",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/4/0/40499283614223270002a_2.jpg",
+  "brandName": "GUESS",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:28:44.963Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:28:44.963Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e7e7c1ea6d7904a47db3"
+  },
+  "name": "Kayali Lovefest Burning Cherry 48 Eau De Parfum",
+  "price": 11350,
+  "description": "Celebrate your love for life with this luscious, woody gourmand fragrance and awaken the free spirit within you! The enticing contrast of succulent burning cherries and raspberries accompanied with sweet caramelized praline against the smoky, earthy notes of palo santo, guaiac wood, and patchouli makes this a truly mesmerizing and euphoric fragrance.",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/3/8/381bdafKAYAL00000068_1.jpg",
+  "brandName": "Kayali",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:32:23.666Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:32:23.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e81bc1ea6d7904a47db5"
+  },
+  "name": "Kayali Vanilla Candy Rock Sugar 42 Eau De Parfum",
+  "price": 8350,
+  "description": "Celebrate your love for life with this luscious, woody gourmand fragrance and awaken the free spirit within you! The enticing contrast of succulent burning cherries and raspberries accompanied with sweet caramelized praline against the smoky, earthy notes of palo santo, guaiac wood, and patchouli makes this a truly mesmerizing and euphoric fragrance.",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/2/8/2896eec6294018404330_1.jpg",
+  "brandName": "Kayali",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:33:15.577Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:33:15.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3e8abc1ea6d7904a47db7"
+  },
+  "name": "GUESS Seductive Noir Eau De Toilette",
+  "price": 3650,
+  "description": "Be seduced by the essence of the new mystery Guess Seductive Noir for women. A sexy and intriguing scent that embodies the unique magnetism and playfully captivating style synonymous with the Guess brand.",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/a/a/aa7a99a85715320230_1230424.jpg",
+  "brandName": "GUESS",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:35:39.958Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:35:39.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3eb1fc1ea6d7904a47db9"
+  },
+  "name": "Kayali Oudgasm Vanilla 36 Eau De Parfum Intense",
+  "price": 3650,
+  "description": "Be seduced by the essence of the new mystery Guess Seductive Noir for women. A sexy and intriguing scent that embodies the unique magnetism and playfully captivating style synonymous with the Guess brand.",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/7/0/703bbefKAYAL00000152_1.jpg",
+  "brandName": "Kayali",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:46:07.128Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:46:07.128Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3eb90c1ea6d7904a47dbb"
+  },
+  "name": "Wanderlust French Lavender Fragrance Mist",
+  "price": 450,
+  "description": "Nykaa Wanderlust Bath & Body Collection, bottles up all your travel experiences with fragrances that still linger at the back of you head. Lets revisit those lands and fill your heart with memories with our floral fragrances and treat your skin to the comfort and well-being it deserves!",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/b/3/b30afc38904245708238_1.jpg",
+  "brandName": "Nykaa",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:48:00.973Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:48:00.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3ec10c1ea6d7904a47dbd"
+  },
+  "name": "Mediterranean sea salt Fragrance Mist",
+  "price": 450,
+  "description": "Drench yourself in the fresh aquatic aroma of salty sea waters with our Mediterranean Sea Salt Fragrance Mist. Just a few sprays of the fragrance will instantly transport you to sunny beach days when you laid back on warm sands and strolled along endless coastlines. It’s like revisiting your favourite ocean escape!",
+  "category": "fragrance",
+  "imageURL": "https://adn-static1.nykaa.com/media/wysiwyg/NYK_WLFM_img_seasalt.jpg",
+  "brandName": "Nykaa",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:50:08.044Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:50:08.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3ec5fc1ea6d7904a47dbf"
+  },
+  "name": "Wanderlust Japanese Cherry Blossom Fragrance Mist",
+  "price": 450,
+  "description": "Say hello to good mood, positive vibes with our cherry blossom fragrance mist. The fragrance of the beautiful little blossom will refresh and invigorate your tired mind. Few sprays of this body mist will enchant your senses, its like a love letter to you from Japan!!",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/1/c/1ca01738904245706586_1.jpg",
+  "brandName": "Nykaa",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:51:27.587Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:51:27.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3ec9ac1ea6d7904a47dc1"
+  },
+  "name": "Wanderlust Hawaiian Jasmine Fragrance Mist",
+  "price": 450,
+  "description": "Say hello to good mood, positive vibes with our cherry blossom fragrance mist. The fragrance of the beautiful little blossom will refresh and invigorate your tired mind. Few sprays of this body mist will enchant your senses, its like a love letter to you from Japan!!",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/8/9/8904245708306_1_1.jpg",
+  "brandName": "Nykaa",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:52:26.226Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:52:26.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3ed26c1ea6d7904a47dc3"
+  },
+  "name": "Renee Bloom Parfum. ",
+  "price": 560,
+  "description": "Imprint your prey with a floral ambush with RENEE Bloom Eau de Parfum. This blooming perfume is a unique combination of notes from tuberose, jasmine and sandalwood along with a spicy trail from vanilla, cocoa and tonka beans with a touch of almond. Do not underestimate the delicate elements of this fragrance for together they are celebration of floral extravagance which is hard to ignore and sensuously irresistible be it any day or season!",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/c/c/cca6d7bRENEE00000301_1.jpg",
+  "brandName": "Renee",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:54:46.835Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:54:46.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3ed5fc1ea6d7904a47dc5"
+  },
+  "name": "Renee Dark Desire. ",
+  "price": 560,
+  "description": "Imprint your prey with a floral ambush with RENEE Dark Desire Eau de Parfum. This blooming perfume is a unique combination of notes from tuberose, jasmine and sandalwood along with a spicy trail from vanilla, cocoa and tonka beans with a touch of almond. Do not underestimate the delicate elements of this fragrance for together they are celebration of floral extravagance which is hard to ignore and sensuously irresistible be it any day or season!",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/c/c/cca6d7bRENEE00000303_1.jpg",
+  "brandName": "Renee",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:55:43.934Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:55:43.934Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b3ed98c1ea6d7904a47dc7"
+  },
+  "name": "Renee Dark Desire. ",
+  "price": 560,
+  "description": "Imprint your prey with a floral ambush with RENEE Dark Desire Eau de Parfum. This blooming perfume is a unique combination of notes from tuberose, jasmine and sandalwood along with a spicy trail from vanilla, cocoa and tonka beans with a touch of almond. Do not underestimate the delicate elements of this fragrance for together they are celebration of floral extravagance which is hard to ignore and sensuously irresistible be it any day or season!",
+  "category": "fragrance",
+  "imageURL": "https://images-static.nykaa.com/media/catalog/product/c/c/cca6d7bRENEE00000303_1.jpg",
+  "brandName": "Renee",
+  "adminID": "0wks3sjv",
+  "createdAt": {
+    "$date": "2024-08-07T21:56:40.689Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-07T21:56:40.689Z"
+  },
+  "__v": 0
+}]
